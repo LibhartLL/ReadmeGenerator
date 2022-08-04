@@ -1,0 +1,31 @@
+{
+  "name": "potential-enigma",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-boot-camp/potential-enigma.git"
+  },
+  "author": "Lindsay Libhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-boot-camp/potential-enigma/issues"
+  },
+  "homepage": "https://github.com/coding-boot-camp/potential-enigma#readme",
+  "devDependencies": {
+    "@types/node": "^18.6.3"
+  },
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "inquire": "^0.4.8"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": []
+}
