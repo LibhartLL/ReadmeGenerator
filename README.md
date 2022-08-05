@@ -29,8 +29,8 @@ JavaScript, NodeJS, NPM
 
 ### Screenshots or Video Files:
 README Screenshot :
-No screenshot see video below.
-![Video Files](Movie1.mp4))
+![Screenshot](./Image%208-5-22%20at%202.30%20PM.jpg)
+![Video Files](./demovid.webm)
 
 ### Project Live Page:
 https://libhartll.github.io/ReadmeGenerator/
