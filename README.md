@@ -30,7 +30,9 @@ JavaScript, NodeJS, NPM
 ### Screenshots or Video Files:
 README Screenshot :
 ![Screenshot](./Image%208-5-22%20at%202.30%20PM.jpg)
-![Video Files](./demovid.webm)
+Video of how the README.md Generator works:
+https://user-images.githubusercontent.com/104096647/183220157-55eace61-4645-4cef-9223-3af1614f9e7d.mov
+
 
 ### Project Live Page:
 https://libhartll.github.io/ReadmeGenerator/
