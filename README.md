@@ -28,9 +28,13 @@ JavaScript, NodeJS, NPM
 * NodeJS complete reference, Geeks for Geeks: https://www.geeksforgeeks.org/nodejs/
 
 ### Screenshots or Video Files:
-README Screenshot :
-![Screenshot](./Image%208-5-22%20at%202.30%20PM.jpg)
-![Video Files](./demovid.webm)
+
+README Video and Screenshots:
+[![Youtube video of Readme.md Generator](https://img.youtube.com/vi/GApzpDmkk/0.jpg)](https://www.youtube.com/watch?v=GApzpDmkk)
+
+![Screenshot](./images/vscoderm1.jpg),
+![Screenshot](./images/vdcode2.jpg).
+![Screenshot](./images/vscoderm3.jpg)
 
 ### Project Live Page:
 https://libhartll.github.io/ReadmeGenerator/
