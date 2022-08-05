@@ -30,7 +30,7 @@ JavaScript, NodeJS, NPM
 ### Screenshots or Video Files:
 README Screenshot :
 No screenshot see video below.
-![Video Files](./images/out.gif)
+![Video Files](./images/video1.mov)
 
 ### Project Live Page:
 https://libhartll.github.io/ReadmeGenerator/
