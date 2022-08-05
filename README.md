@@ -23,7 +23,11 @@ Save this repository to your computer.  Open the folder and at the terminal make
 JavaScript, NodeJS, NPM
 
 ### Credits:
-https://www.w3schools.com/nodejs/, https://nodejs.dev/learn, https://www.youtube.com/watch?v=TlB_eWDSMt4, https://www.youtube.com/watch?v=jiSFfpw3Btc
+* NodeJs Tutorial, W3Schools: https://www.w3schools.com/nodejs/, 
+* Introduction to NodeJs by NodeJS: https://nodejs.dev/learn, 
+* NodeJS Tutorial for Beginners, Programming with Mosh: https://www.youtube.com/watch?v=TlB_eWDSMt4, 
+* Node.js Tutorial for Beginners - 3 - Basic Concepts, The New Boston: https://www.youtube.com/watch?v=jiSFfpw3Btc,
+* NodeJS complete reference, Geeks for Geeks: https://www.geeksforgeeks.org/nodejs/
 
 ### Screenshots or Video Files:
 ./lib/video.mbd 
