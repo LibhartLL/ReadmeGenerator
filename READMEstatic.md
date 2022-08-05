@@ -29,7 +29,7 @@ JavaScript, NodeJS, NPM
 
 ### Screenshots or Video Files:
 README Screenshot :
-![Screenshot](./lib/images/Screenshot1.jpg)
+![Screenshot](./images/Image%208-5-22%20at%202.30%20PM.jpg)
 ![Video Files](./lib/images/Video1.mpv)
 
 ### Project Live Page:
