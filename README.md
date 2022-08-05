@@ -16,8 +16,7 @@
 This is a app that you run from your terminal.  You will use NodeJS and NPM.
 
 ### Installation Instructions:
-In order to install the application to make your README.md file.  Open your console and run the following command:
-Save this repository to your computer.  Open the folder and at the terminal make sure you are running the most recent version of NodeJS and also install $npm init -y and $npm install inquirer.  Once saved and then nmp is installed at the command line type $node index.js. The program will then ask you questions about your Markdown readme file that you are going to save. 
+In order to install the application to make your README.md file. Save this repository to your computer.  Open the folder and at the terminal make sure you are running the most recent version of NodeJS and also install $npm init -y and $npm install inquirer.  Once saved and then nmp is installed at the command line type $node index.js. The program will then ask you questions about your Markdown readme file that you are going to save. Save the README.md file to your folder of the app you are developing.
 
 ### Technologies:
 JavaScript, NodeJS, NPM
