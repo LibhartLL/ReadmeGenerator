@@ -35,9 +35,9 @@ JavaScript, NodeJS, NPM
 [![Youtube video of Readme.md Generator](https://img.youtube.com/vi/3GGApzpDmkk/0.jpg)](https://www.youtube.com/watch?v=3GGApzpDmkk)
 
 * Play by play screenshots of the command line prompts for the readme questions and the creation of the readme.md:
-![Screenshot](./images/vscoderm1.jpg),
-![Screenshot](./images/vdcode2.jpg).
-![Screenshot](./images/vscoderm3.jpg)
+![Screenshot](vscoderm1.jpg),
+![Screenshot](vdcode2.jpg).
+![Screenshot](vscoderm3.jpg)
 
 
 ### Project Live Page:
