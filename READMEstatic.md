@@ -1,4 +1,3 @@
-
 # README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -29,7 +28,9 @@ JavaScript, NodeJS, NPM
 * NodeJS complete reference, Geeks for Geeks: https://www.geeksforgeeks.org/nodejs/
 
 ### Screenshots or Video Files:
-https://github.com/LibhartLL/ReadmeGenerator/blob/37e13ca0067375e8a80f5db5a9d64a749ed06a9f/900BAB4C-9479-4D95-8BF0-747ED3B6805B_1_201_a.jpeg
+README Screenshot :
+![Screenshot](./lib/images/Screenshot1.jpg)
+![Video Files](./lib/images/Video1.mpv)
 
 ### Project Live Page:
 https://libhartll.github.io/ReadmeGenerator/
