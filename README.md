@@ -30,7 +30,7 @@ JavaScript, NodeJS, NPM
 ### Screenshots or Video Files:
 
 README Video and Screenshots:
-
+[![Youtube video of Readme.md Generator](https://img.youtube.com/vi/3GGApzpDmkk/0.jpg)](https://www.youtube.com/watch?v=3GGApzpDmkk)
 
 ![Screenshot](./images/vscoderm1.jpg),
 ![Screenshot](./images/vdcode2.jpg).
